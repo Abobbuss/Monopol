@@ -1,0 +1,7 @@
+C:\Users\me\me\Work\CSharp\Monopol\Monopol\bin\Debug\Monopol.exe.config
+C:\Users\me\me\Work\CSharp\Monopol\Monopol\bin\Debug\Monopol.exe
+C:\Users\me\me\Work\CSharp\Monopol\Monopol\bin\Debug\Monopol.pdb
+C:\Users\me\me\Work\CSharp\Monopol\Monopol\obj\Debug\Monopol.csproj.AssemblyReference.cache
+C:\Users\me\me\Work\CSharp\Monopol\Monopol\obj\Debug\Monopol.csproj.CoreCompileInputs.cache
+C:\Users\me\me\Work\CSharp\Monopol\Monopol\obj\Debug\Monopol.exe
+C:\Users\me\me\Work\CSharp\Monopol\Monopol\obj\Debug\Monopol.pdb
